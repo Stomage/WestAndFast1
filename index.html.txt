@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="WestAndFast - Automotive and Engineering Blog">
+    <title>WestAndFast</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to WestAndFast</h1>
+        <p>Your hub for automotive and engineering insights!</p>
+    </header>
+    <main>
+        <section>
+            <h2>Latest Articles</h2>
+            <p>Stay tuned for updates in the automotive world.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 WestAndFast</p>
+    </footer>
+</body>
+</html>
